@@ -1,0 +1,8 @@
+library(tidyverse)
+library(dplyr)
+library(data.table)
+library(ggplot2)
+library(viridis)
+library(DT)
+load("WTI_60.Rdata")
+load("WTI_av_le.Rdata")
